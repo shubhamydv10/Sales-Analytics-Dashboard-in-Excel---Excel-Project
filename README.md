@@ -11,7 +11,7 @@ This Excel project presents an interactive Sales Performance Dashboard designed 
 📊 Key Features
 
 - City-wise Tabs: Switch between cities such as Delhi, Mumbai, Pune, etc., to view specific sales data.
-- Dashboard Views: Four <a href=“https://github.com/shubhamydv10/Sales-Analytics-Dashboard-in-Excel---Excel-Project/blob/main/Sales%20Analytics%20Dashboard%20-%20Excel%20Project.xlsm”>Dashboard</a> display different perspectives of sales performance:
+- Dashboard Views: Four <a href=“https://github.com/shubhamydv10/Sales-Analytics-Dashboard-in-Excel---Excel-Project/blob/main/Dashboard.png”>Dashboard</a> display different perspectives of sales performance:
 - Dashboard 1: Total Sales by Sales Executive (Bar Chart)
 - Dashboard 2: Total Sales Comparison (Table View)
 - Dashboard 3: Target Hit % by Sales Executive (Pie Chart)
@@ -49,5 +49,10 @@ The dashboard enables tracking of:
 - Open the Excel file.
 - Click on any city tab to view its dashboard.
 - Use dashboard buttons to switch between different performance views.
+
+📊 Dashboard
+
+<img width="1797" height="754" alt="Dashboard" src="https://github.com/user-attachments/assets/3161d87c-0c14-4cda-9e84-40ee4b97b845" />
+
 
   
